@@ -1,0 +1,6 @@
+'INICIAR O VIDEO 3 DA AULA DO NOTION'
+
+'COMEÇAR O VIDEO 3.'
+'Está na pasta meupc/videos'
+
+'DEPOIS APAGAR ESSE ARQUIVO!'
